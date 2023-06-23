@@ -1,0 +1,7 @@
+1.
+Las limitaciones en la disponibilidad y compatibilidad de un lenguaje de programación en diferentes sistemas operativos se deben a las diferencias en las implementaciones, dependencias del sistema, el ecosistema de desarrollo y la arquitectura del sistema operativo. Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador.
+
+2. VirtualBox es un software para virtualización, también conocido como hipervisor de tipo 2, creando lo que se conoce como máquina virtual1. Es un programa de máquina virtual de código abierto de Oracle que permite a los usuarios instalar virtualmente muchos sistemas operativos en unidades virtuales, incluyendo Windows, BSD, Linux, Solaris y más.
+
+3. No, si una máquina virtual se rompe, esto no afecta a las demás máquinas virtuales que tengas instaladas. Cada máquina virtual es independiente y funciona como si fuera una computadora separada.
+
