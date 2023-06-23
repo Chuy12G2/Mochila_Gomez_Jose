@@ -1,0 +1,6 @@
+1. privada: 127.0.0.1
+   publica: 45.174.72.196
+
+2. MAC: 08:00:27:d9:48:fe
+
+3. no son las mismas
